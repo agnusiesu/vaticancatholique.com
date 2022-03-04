@@ -1,0 +1,167 @@
+
+body, #wrapper, #main-header, #wrapper-home-content, .wrapper-youtube-share-resp, #navigation-menu, .nav-menu-resp hr {
+  background-color: #B7AB6A;
+}
+
+li {
+	margin-bottom: 0px;
+}
+
+iframe {
+	margin-top: 10px;
+}
+figcaption {
+	margin-top: 5px;
+}
+
+.mhfm-content .content-notes {
+	font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.mhfm-content h2 {
+	font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.mhfm-content a {
+	color: blue;
+}
+.mhfm-content figure img {
+	width: 80%;
+}
+.post-content-image figure {
+	overflow: hidden;
+}
+
+#wrapper-home-main p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.heps-contents, .heps-contents li {
+  margin-left: 0px;
+}
+
+.video-more, .article-more {
+  background-color: #31475D;
+}
+
+.video-more:hover {
+  background-color: #3D70A3;
+}
+
+.article-more:hover {
+  background-color: #3D70A3;
+}
+
+#menu-lang li:hover {
+  background-color: #3D70A3;
+}
+
+#menu-lang li:hover a {
+  color: white;
+}
+
+#menu-lang li li:hover a {
+  color: white;
+}
+
+#menu-lang li li li:hover a {
+  color: white;
+}
+
+.home-daily-quotations-title {
+  background-color: #00003E;
+}
+
+.sub-title-content {
+  background-color: #3D70A3;
+}
+
+.quotations-print {
+  background-color: rgba(243, 231, 166, 0.3);
+}
+
+.title-fast-links, #other-languages-title, .widget-title {
+  background-color: #00003E;
+}
+
+.title-fast-links p {
+  font-size: 15px;
+}
+
+.widget-page li {
+  background-color: rgba(249, 249, 227, 0.6);
+}
+
+.widget-page li a, .tagcloud a {
+  color: #00003E;
+}
+
+.widget-page li a:hover {
+  color: #1D3B7A;
+}
+
+.tagcloud a:hover {
+  color: #1D3B7A;
+}
+
+.entry-content blockquote blockquote{
+	font-style: normal;
+  	margin-left: 5%;
+  	margin-right: 5%;
+  	line-height: 22px;
+  	padding-top: 0px;
+}
+.entry-content .table-bible td, .entry-content .table-bible th {
+	border: 1px solid;
+	padding: 5px;
+}
+
+.retour-sommaire {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.quotation {
+	box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.6);
+	background-color: #F4F4EF;
+	margin: 20px 40px 20px 40px;
+    padding: 10px 30px 10px 30px;
+}
+
+.french-calendar {
+	padding: 5px;
+}
+.french-calendar td {
+	border: 2px solid;
+	padding: 10px;
+}
+
+.post-table {
+	table-layout: fixed;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.post-table td {
+	width: 50%;
+}
+
+@media screen and (max-width: 1000px) {
+    .quotation {
+    	margin: 20px 10px 20px 10px;
+        padding: 10px 10px 10px 10px;
+    }
+}
+@media screen and (max-width: 800px) {
+	.mhfm-content figure img {
+		width: 100%;
+	}
+}
+
+.entry-content p {
+    text-align: justify;
+}
